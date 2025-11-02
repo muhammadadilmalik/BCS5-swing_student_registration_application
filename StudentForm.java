@@ -23,10 +23,10 @@ public class StudentForm extends JFrame {
         JLabel lblRoll = new JLabel("Roll Number:");
         txtRoll = new JTextField();
 
-        JLabel lblMarksObtained = new JLabel("Obtained:");
+        JLabel lblMarksObtained = new JLabel("Obtained Marks Updated:");
         txtMarksObtained = new JTextField();
 
-        JLabel lblTotalMarks = new JLabel("Total:");
+        JLabel lblTotalMarks = new JLabel("Total Marks Updated:");
         txtTotalMarks = new JTextField();
 
         btnSave = new JButton("Save");
